@@ -52,3 +52,4 @@ This is my personal portfolio website showcasing my projects, skills, and work a
 ```bash
 git clone https://github.com/Shobha0703/shobha-portfolio.git
 cd shobha-portfolio
+Open index.html in your browser to view the project.
